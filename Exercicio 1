@@ -1,4 +1,4 @@
-print("Digite F para Converter para Farenheint ou C para Celsius e X oara encerrar")
+print("Digite F para Converter para Farenheint ou C para Celsius e X para encerrar")
 tipo = input()
 while True:
     temp = int(0)
@@ -15,5 +15,5 @@ while True:
         exit(0)
     else:
         print("Opção invalida")
-    print("Digite F para Converter para Farenheint ou C para Celsius e X oara encerrar")
+    print("Digite F para Converter para Farenheint ou C para Celsius e X para encerrar")
     tipo = input()
